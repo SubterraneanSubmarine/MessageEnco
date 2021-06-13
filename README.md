@@ -6,5 +6,5 @@ The executable jar file is ready to be run on any machine that has the Java runt
 GUIあり、Javaで書いた暗記するプログラムだ。
 パスワードとメッセージを入力してからメッセージを暗記できる。暗記の方法は、メッセージのUnicodeの数字とパスワードのUnicodeの数字を足して、数字で記録する。このように文字は一つずつで暗記されている。数字のままで記録されているから、どんな言語でも使える。
 
-# Demo ビデオ
+# Demo【ビデオ】
 https://youtu.be/sYSH8oySLRc
